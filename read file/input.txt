@@ -1,0 +1,2 @@
+Hello from C!
+This is an Example of reading Files in C.
